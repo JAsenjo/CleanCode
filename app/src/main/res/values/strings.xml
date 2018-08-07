@@ -1,0 +1,9 @@
+<resources>
+
+    <!-- GLOBAL -->
+    <string name="app_name">CleanCode</string>
+
+    <!-- SPLASH SCREEN -->
+    <string name="text_splash_screen_activity_clean_code">Clean Code</string>
+
+</resources>

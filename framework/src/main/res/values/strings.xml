@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">framework</string>
+
+    <!-- Global -->
+    <string name="error_generic">En estos momentos no es posible realizar la acción solicitada. Por favor, compruebe que tiene conexión de datos y vuelva a intentarlo.</string>
+    <string name="text_progress_dialog_loading">Cargando…</string>
+    <string name="title_alert_dialog_info">Información</string>
+    <string name="title_alert_dialog_warning">Advertencia</string>
+    <string name="title_alert_dialog_error">Error</string>
+
+</resources>
